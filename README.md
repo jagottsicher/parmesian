@@ -1,4 +1,4 @@
-# parmesian 🧀
+# Parmesian 🧀
 ## The lazy guy's admin edition...
 ### Meet Parmesian now!
 
